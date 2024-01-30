@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Prince an MLOps Engineer and founder of [Kulissiwa](kulissiwa.com),
 
 <!--
 **Blaizzy/Blaizzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Blaizzy&theme=dark&show_icons=true&include_all_commits=true" alt="SiddhantSadangi"/>
+</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Blaizzy&&theme=github-compact" alt="Prince Canuma's github activity graph"/>
+
+<p align="center"> 
+<img src="https://github-profile-trophy.vercel.app/?username=Blaizzy&theme=algolia&column=-1" alt="Prince Canuma" /></a> </p>
+<hr/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=blaizzy&label=Profile%20views&style=for-the-badge" alt="Prince Canuma"/>
+</p>
+<hr/>
