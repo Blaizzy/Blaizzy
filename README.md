@@ -1,4 +1,4 @@
-### Hi 👋, I'm Prince an MLOps Engineer and founder of [Kulissiwa](kulissiwa.com),
+### Hi 👋, I'm Prince an ML Research Engineer at Arcee and the MLX King 👑
 
 <!--
 **Blaizzy/Blaizzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Blaizzy&theme=dark&show_icons=true&include_all_commits=true" alt="SiddhantSadangi"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Blaizzy&theme=dark&show_icons=true&include_all_commits=true" alt="Prince Canuma"/>
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blaizzy&&theme=github-compact" alt="Prince Canuma's github activity graph"/>
 
