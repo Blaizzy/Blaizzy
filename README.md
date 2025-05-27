@@ -1,4 +1,4 @@
-### Hi 👋, I'm Prince an ML Research Engineer at Arcee and the MLX King 👑
+### Hi 👋, I'm Prince an ML Research Engineer and the MLX King 👑
 
 <!--
 **Blaizzy/Blaizzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
